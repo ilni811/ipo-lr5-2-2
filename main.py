@@ -14,3 +14,14 @@ else:
   else:
     print("Строки являются анаграммами.")
 
+ #or 
+    # str1 = input("Введите первую строку: ")
+#str2 = input("Введите вторую строку: ")
+
+#str1 = str1.lower().replace(" ", "")
+#str2 = str2.lower().replace(" ", "")
+
+#if sorted(str1) == sorted(str2):
+  #print("Строки являются анаграммами.")
+#else:
+  #print("Строки не являются анаграммами.")
